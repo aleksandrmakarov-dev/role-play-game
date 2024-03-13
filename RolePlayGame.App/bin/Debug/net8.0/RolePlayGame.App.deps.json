@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "RolePlayGame.App/1.0.0": {
+        "dependencies": {
+          "RolePlayGame.Graphics": "1.0.0"
+        },
+        "runtime": {
+          "RolePlayGame.App.dll": {}
+        }
+      },
+      "RolePlayGame.Graphics/1.0.0": {
+        "runtime": {
+          "RolePlayGame.Graphics.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RolePlayGame.App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RolePlayGame.Graphics/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
