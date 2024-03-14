@@ -1,10 +1,5 @@
 ﻿using RolePlayGame.Core.Entities.Utils;
 using RolePlayGame.Core.Inventory.Items.itemsUtils;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace RolePlayGame.Core.Inventory.Items
 {
@@ -12,6 +7,7 @@ namespace RolePlayGame.Core.Inventory.Items
     {
         public ArmorType Type { get; private set; }
         public int ArmorClass { get; private set; }
+        public List<ArmorSpecial> Special { get; private set; }
         public Armor(double weight,
             ArmorType type,
             int armorClass,
