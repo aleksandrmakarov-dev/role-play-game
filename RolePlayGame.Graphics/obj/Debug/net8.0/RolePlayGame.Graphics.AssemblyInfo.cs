@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RolePlayGame.Graphics")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d96c1ce8a548bed017cffa2d82050acc8e25c89")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a2d584b85f82ca7d3d1e27179f7c5065c5a13ad8")]
 [assembly: System.Reflection.AssemblyProductAttribute("RolePlayGame.Graphics")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RolePlayGame.Graphics")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -10,3 +10,15 @@ D:\WindowsFiles\csharpProjects\role-play-game\RolePlayGame.Graphics\obj\Debug\ne
 D:\WindowsFiles\csharpProjects\role-play-game\RolePlayGame.Graphics\obj\Debug\net8.0\refint\RolePlayGame.Graphics.dll
 D:\WindowsFiles\csharpProjects\role-play-game\RolePlayGame.Graphics\obj\Debug\net8.0\RolePlayGame.Graphics.pdb
 D:\WindowsFiles\csharpProjects\role-play-game\RolePlayGame.Graphics\obj\Debug\net8.0\ref\RolePlayGame.Graphics.dll
+C:\Users\Public\Documents\projects\role-play-game\RolePlayGame.Graphics\bin\Debug\net8.0\RolePlayGame.Graphics.deps.json
+C:\Users\Public\Documents\projects\role-play-game\RolePlayGame.Graphics\bin\Debug\net8.0\RolePlayGame.Graphics.dll
+C:\Users\Public\Documents\projects\role-play-game\RolePlayGame.Graphics\bin\Debug\net8.0\RolePlayGame.Graphics.pdb
+C:\Users\Public\Documents\projects\role-play-game\RolePlayGame.Graphics\obj\Debug\net8.0\RolePlayGame.Graphics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Public\Documents\projects\role-play-game\RolePlayGame.Graphics\obj\Debug\net8.0\RolePlayGame.Graphics.AssemblyInfoInputs.cache
+C:\Users\Public\Documents\projects\role-play-game\RolePlayGame.Graphics\obj\Debug\net8.0\RolePlayGame.Graphics.AssemblyInfo.cs
+C:\Users\Public\Documents\projects\role-play-game\RolePlayGame.Graphics\obj\Debug\net8.0\RolePlayGame.Graphics.csproj.CoreCompileInputs.cache
+C:\Users\Public\Documents\projects\role-play-game\RolePlayGame.Graphics\obj\Debug\net8.0\RolePlayGame.Graphics.sourcelink.json
+C:\Users\Public\Documents\projects\role-play-game\RolePlayGame.Graphics\obj\Debug\net8.0\RolePlayGame.Graphics.dll
+C:\Users\Public\Documents\projects\role-play-game\RolePlayGame.Graphics\obj\Debug\net8.0\refint\RolePlayGame.Graphics.dll
+C:\Users\Public\Documents\projects\role-play-game\RolePlayGame.Graphics\obj\Debug\net8.0\RolePlayGame.Graphics.pdb
+C:\Users\Public\Documents\projects\role-play-game\RolePlayGame.Graphics\obj\Debug\net8.0\ref\RolePlayGame.Graphics.dll

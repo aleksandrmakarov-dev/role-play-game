@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = RolePlayGame.App
-build_property.ProjectDir = D:\WindowsFiles\csharpProjects\role-play-game\RolePlayGame.App\
+build_property.ProjectDir = C:\Users\Public\Documents\projects\role-play-game\RolePlayGame.App\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
