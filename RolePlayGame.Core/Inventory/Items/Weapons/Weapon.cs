@@ -1,18 +1,17 @@
 ﻿using RolePlayGame.Core.Entities.Utils;
-using RolePlayGame.Core.Inventory.Items.itemsUtils;
+using RolePlayGame.Core.Inv.Items.itemsUtils;
 
-namespace RolePlayGame.Core.Inventory.Items
+namespace RolePlayGame.Core.Inv.Items.Weapons
 {
 
-   
 
-    public class Weapon : Item
+
+    public class Weapon<T> : Item, IEquipable, IHandsEquipable where T : WeaponType
     {
         public double MinDamage { get; private set; }
         public double MaxDamage { get; private set; }
         public double Range { get; private set; }
-        public List<WeaponType> WType { get; private set; }
-        public List<DamageType> DType { get; private set; }
+        public WeaponType WType { get; private set; }
         public List<WeaponSpecial> Specials { get; private set; }
 
 
@@ -30,9 +29,9 @@ namespace RolePlayGame.Core.Inventory.Items
             MinDamage = minDamage;
             MaxDamage = maxDamage;
             Range = range;
-            DType = dType;
-            WType = wType;
             Specials = specials;
         }
+
+        public double GetArmorBonus() { return 0; }
     }
 }

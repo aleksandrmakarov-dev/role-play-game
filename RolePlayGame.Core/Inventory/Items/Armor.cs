@@ -1,9 +1,9 @@
 ﻿using RolePlayGame.Core.Entities.Utils;
-using RolePlayGame.Core.Inventory.Items.itemsUtils;
+using RolePlayGame.Core.Inv.Items.itemsUtils;
 
-namespace RolePlayGame.Core.Inventory.Items
+namespace RolePlayGame.Core.Inv.Items
 {
-    public class Armor: Item
+    public class Armor: Item, IEquipable
     {
         public ArmorType Type { get; private set; }
         public int ArmorClass { get; private set; }

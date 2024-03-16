@@ -1,4 +1,4 @@
-﻿namespace RolePlayGame.Core.Inventory.Items.itemsUtils
+﻿namespace RolePlayGame.Core.Inv.Items.itemsUtils
 {
     public enum ArmorType
     {

@@ -27,19 +27,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Alex\\.nuget\\packages\\": {}
+    "C:\\Users\\user\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Public\\Documents\\projects\\role-play-game\\RolePlayGame.App\\RolePlayGame.App.csproj",
+      "projectUniqueName": "D:\\WindowsFiles\\csharpProjects\\role-play-game\\RolePlayGame.App\\RolePlayGame.App.csproj",
       "projectName": "RolePlayGame.App",
-      "projectPath": "C:\\Users\\Public\\Documents\\projects\\role-play-game\\RolePlayGame.App\\RolePlayGame.App.csproj",
-      "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Public\\Documents\\projects\\role-play-game\\RolePlayGame.App\\obj\\",
+      "projectPath": "D:\\WindowsFiles\\csharpProjects\\role-play-game\\RolePlayGame.App\\RolePlayGame.App.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "D:\\WindowsFiles\\csharpProjects\\role-play-game\\RolePlayGame.App\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Alex\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -53,8 +53,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Public\\Documents\\projects\\role-play-game\\RolePlayGame.Graphics\\RolePlayGame.Graphics.csproj": {
-              "projectPath": "C:\\Users\\Public\\Documents\\projects\\role-play-game\\RolePlayGame.Graphics\\RolePlayGame.Graphics.csproj"
+            "D:\\WindowsFiles\\csharpProjects\\role-play-game\\RolePlayGame.Graphics\\RolePlayGame.Graphics.csproj": {
+              "projectPath": "D:\\WindowsFiles\\csharpProjects\\role-play-game\\RolePlayGame.Graphics\\RolePlayGame.Graphics.csproj"
             }
           }
         }
@@ -63,11 +63,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -89,7 +84,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

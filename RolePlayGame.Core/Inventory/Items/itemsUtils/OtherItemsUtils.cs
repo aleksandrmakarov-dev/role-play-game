@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace RolePlayGame.Core.Inventory.Items.itemsUtils
+namespace RolePlayGame.Core.Inv.Items.itemsUtils
 {
     public enum ClothesSpecial
     {

@@ -1,6 +1,6 @@
 ﻿using RolePlayGame.Core.Entities.Utils;
 
-namespace RolePlayGame.Core.Inventory
+namespace RolePlayGame.Core.Inv
 {
     public abstract class Item
     {

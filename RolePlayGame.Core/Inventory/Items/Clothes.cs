@@ -1,9 +1,9 @@
 ﻿using RolePlayGame.Core.Entities.Utils;
-using RolePlayGame.Core.Inventory.Items.itemsUtils;
+using RolePlayGame.Core.Inv.Items.itemsUtils;
 
-namespace RolePlayGame.Core.Inventory.Items
+namespace RolePlayGame.Core.Inv.Items
 {
-    public class Clothes :Item
+    public class Clothes :Item, IEquipable
     {
         public List<ClothesSpecial> Specials { get;private set; }
         public Clothes(double weight, string? name, double price, Rarity rarity, List<ClothesSpecial> specials) 

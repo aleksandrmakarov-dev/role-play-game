@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace RolePlayGame.Core.Inventory
+namespace RolePlayGame.Core.Inv
 {
     public class Inventory
     {

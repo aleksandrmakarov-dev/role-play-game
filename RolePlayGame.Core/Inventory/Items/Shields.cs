@@ -1,10 +1,10 @@
 ﻿
 using RolePlayGame.Core.Entities.Utils;
-using RolePlayGame.Core.Inventory.Items.itemsUtils;
+using RolePlayGame.Core.Inv.Items.itemsUtils;
 
-namespace RolePlayGame.Core.Inventory.Items
+namespace RolePlayGame.Core.Inv.Items
 {
-    public class Shields :Item
+    public class Shields : Item, IEquipable, IHandsEquipable
     {
         public int ArmorBonus { get; private set; }
         public List<ShieldsSpecial> Specials { get; private set; }
@@ -12,7 +12,10 @@ namespace RolePlayGame.Core.Inventory.Items
             : base(weight, name, price, rarity)
         {
             Specials = specials;
-            ArmorBonus = armorBonus;    
+            ArmorBonus = armorBonus;
         }
-    }
+
+        public double GetArmorBonus() { return ArmorBonus; }
+       
+    } 
 }
